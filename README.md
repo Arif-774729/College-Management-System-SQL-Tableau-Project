@@ -53,4 +53,6 @@ The final dashboards include:
 
 Dashboards are interactive, include filters, tooltips, and were styled for clean readability.
 
+![image](https://github.com/user-attachments/assets/239691f7-659c-4a44-822e-c94689bb9b15)
+
 
